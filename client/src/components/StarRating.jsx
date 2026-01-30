@@ -1,3 +1,4 @@
+// 
 import React, { useState } from 'react';
 
 const StarRating = ({ initialRating, onRate }) => {
@@ -10,31 +11,41 @@ const StarRating = ({ initialRating, onRate }) => {
     };
 
     return (
-        <div style={{ display: 'inline-flex', gap: '5px', alignItems: 'center' }}>
-            {[1, 2, 3, 4, 5].map((star) => (
-                <button
-                    key={star}
-                    type="button"
-                    className="star-button"
-                    onClick={() => handleRating(star)}
-                    onMouseEnter={() => setHover(star)}
-                    onMouseLeave={() => setHover(0)}
+        <div style={{ display: 'inline-flex', gap: '6px', alignItems: 'center' }}>
+            {[1, 2, 3, 4, 5].map((star) => {
+                const isActive = (hover || rating) >= star;
+
+                return (
+                    <button
+                        key={star}
+                        type="button"
+                        onClick={() => handleRating(star)}
+                        onMouseEnter={() => setHover(star)}
+                        onMouseLeave={() => setHover(0)}
+                        style={{
+                            background: 'none',
+                            border: 'none',
+                            cursor: 'pointer',
+                            fontSize: '1.6rem',
+                            padding: 0,
+                            color: isActive ? '#facc15' : '#334155', // ⭐ YELLOW
+                            transition: 'color 0.2s ease, transform 0.15s ease',
+                            transform: hover === star ? 'scale(1.2)' : 'scale(1)',
+                        }}
+                    >
+                        {isActive ? '★' : '☆'}
+                    </button>
+                );
+            })}
+
+            {rating > 0 && (
+                <span
                     style={{
-                        background: 'none',
-                        border: 'none',
-                        cursor: 'pointer',
-                        fontSize: '1.5rem',
-                        padding: '0',
-                        color: (hover || rating) >= star ? '#38bdf8' : '#334155',
-                        transition: 'color 0.2s ease, transform 0.1s ease',
-                        transform: hover === star ? 'scale(1.2)' : 'scale(1)'
+                        marginLeft: '10px',
+                        color: '#94a3b8',
+                        fontSize: '0.9rem',
                     }}
                 >
-                    { (hover || rating) >= star ? '★' : '☆' }
-                </button>
-            ))}
-            {rating > 0 && (
-                <span style={{ marginLeft: '10px', color: '#94a3b8', fontSize: '0.9rem' }}>
                     ({rating}.0)
                 </span>
             )}

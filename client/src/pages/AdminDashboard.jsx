@@ -7,11 +7,9 @@ const AdminDashboard = () => {
     const [formData, setFormData] = useState({ name: '', description: '', genre: '' });
     const [image, setImage] = useState(null);
     
-   
     const [isEditing, setIsEditing] = useState(false);
     const [editId, setEditId] = useState(null);
     
-  
     const [toast, setToast] = useState({ show: false, message: "" });
 
     const showToast = (msg) => {
@@ -28,7 +26,6 @@ const AdminDashboard = () => {
 
     useEffect(() => { fetchAnimes(); }, []);
 
-  
     const startEdit = (anime) => {
         setIsEditing(true);
         setEditId(anime._id);
@@ -47,7 +44,6 @@ const AdminDashboard = () => {
         setImage(null);
     };
 
-  
     const handleSubmit = async (e) => {
     e.preventDefault();
     const data = new FormData();
@@ -61,25 +57,17 @@ const AdminDashboard = () => {
             await API.put(`/anime/${editId}`, data);
             showToast("Anime updated successfully! 🔄");
         } else {
-           
             const response = await API.post('/anime', data);
-
-           
             if (response.data.success) {
                 showToast("Anime added successfully! ✨");
             }
         }
-        
-        
         cancelEdit();
         fetchAnimes(); 
 
     } catch (err) {
-       
         const errorMessage = err.response?.data?.message || "Error processing request";
         showToast(errorMessage);
-        
-       
     }
 };
 
@@ -95,14 +83,37 @@ const AdminDashboard = () => {
         }
     };
 
-    const inputStyle = { display: 'block', width: '100%', marginBottom: '10px', padding: '8px', background: '#1e293b', border: '1px solid rgba(255,255,255,0.1)', color: 'white', borderRadius: '5px' };
+    const inputStyle = { 
+        display: 'block', 
+        width: '100%', 
+        marginBottom: '10px', 
+        padding: '12px', 
+        background: '#1e293b', 
+        border: '1px solid rgba(255,255,255,0.1)', 
+        color: 'white', 
+        borderRadius: '8px',
+        transition: 'all 0.3s ease',
+        outline: 'none'
+    };
+
+    
+    const handleActionHover = (e, color) => {
+        e.currentTarget.style.background = color;
+        e.currentTarget.style.color = color === '#fbbf24' ? '#000' : '#fff'; 
+        e.currentTarget.style.boxShadow = `0 0 20px ${color}`;
+    };
+
+    const handleActionLeave = (e, color) => {
+        e.currentTarget.style.background = 'transparent';
+        e.currentTarget.style.color = color;
+        e.currentTarget.style.boxShadow = 'none';
+    };
 
     return (
         <div style={{ display: 'flex', minHeight: 'calc(100vh - 70px)', color: 'white' }}>
             
             {toast.show && <div className="toast-container">{toast.message}</div>}
 
-           
             <div style={{ width: '250px', background: 'var(--card-bg)', borderRight: '1px solid var(--glass)', padding: '2rem 1rem' }}>
                 <h3 style={{ color: 'var(--primary)', marginBottom: '2rem' }}>Admin Tools</h3>
                 <ul style={{ listStyle: 'none', padding: 0 }}>
@@ -127,15 +138,35 @@ const AdminDashboard = () => {
                     </h2>
                     
                     <form onSubmit={handleSubmit} style={{ background: 'var(--glass)', padding: '25px', borderRadius: '12px', border: isEditing ? '1px solid #fbbf24' : '1px solid var(--glass)' }}>
-                        <input type="text" placeholder="Anime Name" value={formData.name} 
-                            onChange={(e) => setFormData({...formData, name: e.target.value})} required style={inputStyle} />
+                        <input 
+                            type="text" 
+                            placeholder="Anime Name" 
+                            className="blue-glow-hover"
+                            value={formData.name} 
+                            onChange={(e) => setFormData({...formData, name: e.target.value})} 
+                            required 
+                            style={inputStyle} 
+                        />
                         
-                        <textarea placeholder="Description" value={formData.description} 
-                            onChange={(e) => setFormData({...formData, description: e.target.value})} required style={{...inputStyle, height: '100px'}} />
+                        <textarea 
+                            placeholder="Description" 
+                            className="blue-glow-hover"
+                            value={formData.description} 
+                            onChange={(e) => setFormData({...formData, description: e.target.value})} 
+                            required 
+                            style={{...inputStyle, height: '100px'}} 
+                        />
 
                         <p style={{ margin: '5px 0', fontSize: '0.9rem', color: '#38bdf8' }}>Genres (Comma separated):</p>
-                        <input type="text" placeholder="e.g. Action, Drama" value={formData.genre} 
-                            onChange={(e) => setFormData({...formData, genre: e.target.value})} required style={inputStyle} />
+                        <input 
+                            type="text" 
+                            placeholder="e.g. Action, Drama" 
+                            className="blue-glow-hover"
+                            value={formData.genre} 
+                            onChange={(e) => setFormData({...formData, genre: e.target.value})} 
+                            required 
+                            style={inputStyle} 
+                        />
                         
                         <p style={{ margin: '5px 0', fontSize: '0.9rem', color: '#38bdf8' }}>
                             {isEditing ? "Upload new image (optional):" : "Anime Image:"}
@@ -143,7 +174,23 @@ const AdminDashboard = () => {
                         <input type="file" onChange={(e) => setImage(e.target.files[0])} required={!isEditing} style={{...inputStyle, background: 'transparent', border: 'none'}} />
                         
                         <div style={{ display: 'flex', gap: '10px' }}>
-                            <button type="submit" className="btn-primary" style={{ flex: 1, marginTop: '10px', background: isEditing ? '#fbbf24' : 'var(--primary)', color: isEditing ? '#000' : '' }}>
+                            <button 
+                                type="submit" 
+                                className="btn-primary" 
+                                style={{ 
+                                    flex: 1, 
+                                    marginTop: '10px', 
+                                    background: isEditing ? '#fbbf24' : 'var(--primary)', 
+                                    color: isEditing ? '#000' : '',
+                                    transition: 'all 0.3s ease'
+                                }}
+                                onMouseEnter={(e) => {
+                                    e.currentTarget.style.boxShadow = '0 0 20px #38bdf8';
+                                }}
+                                onMouseLeave={(e) => {
+                                    e.currentTarget.style.boxShadow = 'none';
+                                }}
+                            >
                                 {isEditing ? "Update Anime Details" : "Upload Anime"}
                             </button>
                             {isEditing && (
@@ -167,7 +214,7 @@ const AdminDashboard = () => {
                                 alignItems: 'center',
                                 background: 'var(--glass)', 
                                 padding: '15px', 
-                                borderRadius: '8px',
+                                borderRadius: '8px', 
                                 border: editId === a._id ? '1px solid #fbbf24' : '1px solid rgba(255,255,255,0.05)'
                             }}>
                                 <div>
@@ -177,15 +224,39 @@ const AdminDashboard = () => {
                                     </p>
                                 </div>
                                 <div style={{ display: 'flex', gap: '10px' }}>
+                                    {/* Edit Button - Yellow Glow */}
                                     <button 
                                         onClick={() => startEdit(a)} 
-                                        style={{ border: 'none', background: 'none', color: '#fbbf24', cursor: 'pointer', fontWeight: 'bold' }}
+                                        style={{ 
+                                            border: '1px solid #fbbf24', 
+                                            background: 'transparent', 
+                                            color: '#fbbf24', 
+                                            cursor: 'pointer', 
+                                            fontWeight: 'bold',
+                                            padding: '5px 15px',
+                                            borderRadius: '5px',
+                                            transition: 'all 0.3s ease'
+                                        }}
+                                        onMouseEnter={(e) => handleActionHover(e, '#fbbf24')}
+                                        onMouseLeave={(e) => handleActionLeave(e, '#fbbf24')}
                                     >
                                         Edit
                                     </button>
+                                    {/* Delete Button - Red Glow */}
                                     <button 
                                         onClick={() => handleDelete(a._id)} 
-                                        style={{ border: 'none', background: 'none', color: 'var(--accent)', cursor: 'pointer', fontWeight: 'bold' }}
+                                        style={{ 
+                                            border: '1px solid #ef4444', 
+                                            background: 'transparent', 
+                                            color: '#ef4444', 
+                                            cursor: 'pointer', 
+                                            fontWeight: 'bold',
+                                            padding: '5px 15px',
+                                            borderRadius: '5px',
+                                            transition: 'all 0.3s ease'
+                                        }}
+                                        onMouseEnter={(e) => handleActionHover(e, '#ef4444')}
+                                        onMouseLeave={(e) => handleActionLeave(e, '#ef4444')}
                                     >
                                         Delete
                                     </button>

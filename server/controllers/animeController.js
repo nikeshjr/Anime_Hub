@@ -12,7 +12,6 @@ export const getSingleAnime = async (req, res, next) => {
             return res.status(404).json({ success: false, message: "Anime not found" });
         }
 
-       
         let isLiked = false;
         if (req.user) {
             const likeStatus = await Like.findOne({ 
@@ -40,8 +39,6 @@ export const getSingleAnime = async (req, res, next) => {
         next(err);
     }
 };
-
-
 
 
 export const getanime = async (req, res, next) => {
@@ -99,8 +96,6 @@ export const getanime = async (req, res, next) => {
 export const createanime = async (req, res, next) => {
     try {
         let { name, description, genre } = req.body;
-
-       
         if (genre) {
             if (typeof genre === 'string') {
                 genre = genre.split(',').map(g => g.trim());
@@ -108,8 +103,6 @@ export const createanime = async (req, res, next) => {
                 genre = [genre];
             }
         }
-
-      
         if (!name || !description || !genre || genre.length === 0 || !req.file) {
            
             if (req.file) fs.unlinkSync(req.file.path);
@@ -123,7 +116,6 @@ export const createanime = async (req, res, next) => {
             return res.status(400).json({ success: false, message: "Anime already exists" });
         }
 
-       
         const normalizedPath = req.file.path.replace(/\\/g, "/");
 
       

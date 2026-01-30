@@ -16,7 +16,7 @@ const AnimeSchema = mongoose.Schema({
    genre: {
     type: [String], 
     required: [true, "Genre is required"],
-    enum: ["Action", "Isekai","Dark Fantasy", "Adventure", "Comedy", "Drama", "Fantasy", "Horror", "Romance", "Sci-Fi","Psychological","Military","Shounen","Supernatural"],
+    enum: ["Action", "Isekai","Sports","Dark Fantasy","Mystery","Dystopian","Adventure", "Comedy", "Drama", "Fantasy", "Horror", "Romance", "Sci-Fi","Psychological","Mecha","Military","Shounen","Supernatural","Thriller","Seinen"],
     default: []
    },
     image: {

@@ -9,7 +9,6 @@ const CommentSchema = mongoose.Schema({
         maxlength: [500, "Comment is too long (max 500 characters)"]
     },
 
-   
     user: {
         type: mongoose.Schema.Types.ObjectId,
         ref: "User", 

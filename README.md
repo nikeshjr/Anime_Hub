@@ -22,7 +22,7 @@
 𝖩𝖲𝖮𝖭 𝖶𝖾𝖻 𝖳𝗈𝗄𝖾𝗇𝗌 (𝖩𝖶𝖳) 𝖿𝗈𝗋 𝗌𝗍𝖺𝗍𝖾𝗅𝖾𝗌𝗌 𝖺𝗎𝗍𝗁𝖾𝗇𝗍𝗂𝖼𝖺𝗍𝗂𝗈𝗇.
 ## Project Preview
 
-<p align="center">
+<!-- <p align="center">
   <img src="Screenshot 2025-12-28 142834.png" width="700" />
   <br/>
   <img src="Screenshot 2025-12-28 142921.png" width="700" />
@@ -37,4 +37,33 @@
   <br/>
   <img src="Screenshot 2025-12-28 143128.png" width="700" />
   <br/>
-</p>
+</p> -->
+## 📸 Application Preview
+
+### 1. Hero Banner
+![Hero Banner](previewimages/herobanner.png)
+
+### 2. Explore Anime
+![Explore Anime](previewimages/exploreanime.png)
+
+### 3. Favorites
+![Favorites](previewimages/favorites.png)
+
+### 4. View Details
+![View Details](previewimages/viewdetails.png)
+
+### 5. Comment Section
+![Comment Section](previewimages/commentsection.png)
+
+### 6. Admin – Add Anime
+![Admin Add Anime](previewimages/adminanimeadd.png)
+
+### 7. Manage Anime
+![Manage Anime](previewimages/manginganime.png)
+
+### 8. Register Page
+![Register](previewimages/register.png)
+
+### 9. Login Page
+![Login](previewimages/loginpage.png)
+

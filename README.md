@@ -1,69 +1,180 @@
-## 🌌 𝖠𝗇𝗂𝗆𝖾𝖧𝗎𝖻
-𝖠𝗇𝗂𝗆𝖾𝖧𝗎𝖻 𝗂𝗌 𝖺 𝗋𝗈𝖻𝗎𝗌𝗍, 𝖿𝗎𝗅𝗅-𝗌𝗍𝖺𝖼𝗄 𝖬𝖤𝖱𝖭 𝖺𝗉𝗉𝗅𝗂𝖼𝖺𝗍𝗂𝗈𝗇 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝖿𝗈𝗋 𝖺𝗇𝗂𝗆𝖾 𝖾𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍𝗌 𝗍𝗈 𝖽𝗂𝗌𝖼𝗈𝗏𝖾𝗋, 𝗌𝖾𝖺𝗋𝖼𝗁, 𝖺𝗇𝖽 𝗆𝖺𝗇𝖺𝗀𝖾 𝖺 𝗉𝖾𝗋𝗌𝗈𝗇𝖺𝗅𝗂𝗓𝖾𝖽 𝖼𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇 𝗈𝖿 𝗌𝖾𝗋𝗂𝖾𝗌. 𝖳𝗁𝖾 𝗉𝗅𝖺𝗍𝖿𝗈𝗋𝗆 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌 𝖺 𝗌𝖾𝖼𝗎𝗋𝖾, 𝗋𝗈𝗅𝖾-𝖻𝖺𝗌𝖾𝖽 𝖺𝗋𝖼𝗁𝗂𝗍𝖾𝖼𝗍𝗎𝗋𝖾 𝗍𝗁𝖺𝗍 𝖺𝗅𝗅𝗈𝗐𝗌 𝗌𝗍𝖺𝗇𝖽𝖺𝗋𝖽 𝗎𝗌𝖾𝗋𝗌 𝗍𝗈 𝖾𝗇𝗀𝖺𝗀𝖾 𝗍𝗁𝗋𝗈𝗎𝗀𝗁 𝗌𝗈𝖼𝗂𝖺𝗅 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌 𝗐𝗁𝗂𝗅𝖾 𝗀𝗋𝖺𝗇𝗍𝗂𝗇𝗀 𝖺𝖽𝗆𝗂𝗇𝗂𝗌𝗍𝗋𝖺𝗍𝗈𝗋𝗌 𝖾𝗑𝖼𝗅𝗎𝗌𝗂𝗏𝖾 𝗍𝗈𝗈𝗅𝗌 𝖿𝗈𝗋 𝖼𝗈𝗇𝗍𝖾𝗇𝗍 𝗆𝖺𝗇𝖺𝗀𝖾𝗆𝖾𝗇𝗍 𝖺𝗇𝖽 𝖼𝗈𝗆𝗆𝗎𝗇𝗂𝗍𝗒 𝗆𝗈𝖽𝖾𝗋𝖺𝗍𝗂𝗈𝗇.  
-## 🚀 𝖪𝖾𝗒 𝖥𝖾𝖺𝗍𝗎𝗋𝖾𝗌 
-## 𝖲𝖾𝖼𝗎𝗋𝖾 𝖠𝗎𝗍𝗁𝖾𝗇𝗍𝗂𝖼𝖺𝗍𝗂𝗈𝗇:
-𝖨𝗆𝗉𝗅𝖾𝗆𝖾𝗇𝗍𝖺𝗍𝗂𝗈𝗇 𝗈𝖿 𝖩𝖶𝖳-𝖻𝖺𝗌𝖾𝖽 𝖺𝗎𝗍𝗁𝖾𝗇𝗍𝗂𝖼𝖺𝗍𝗂𝗈𝗇 𝗐𝗂𝗍𝗁 𝖡𝖼𝗋𝗒𝗉𝗍 𝗉𝖺𝗌𝗌𝗐𝗈𝗋𝖽 𝗁𝖺𝗌𝗁𝗂𝗇𝗀 𝖿𝗈𝗋 𝗌𝖾𝖼𝗎𝗋𝖾 𝗌𝖾𝗌𝗌𝗂𝗈𝗇 𝗆𝖺𝗇𝖺𝗀𝖾𝗆𝖾𝗇𝗍. 
-## 𝖣𝗒𝗇𝖺𝗆𝗂𝖼 𝖣𝗂𝗌𝖼𝗈𝗏𝖾𝗋𝗒:
-𝖱𝖾𝖺𝗅-𝗍𝗂𝗆𝖾 𝗌𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝖽 𝗆𝗎𝗅𝗍𝗂-𝗉𝖺𝗋𝖺𝗆𝖾𝗍𝖾𝗋 𝖿𝗂𝗅𝗍𝖾𝗋𝗂𝗇𝗀 𝗎𝗌𝗂𝗇𝗀 𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖺𝗀𝗀𝗋𝖾𝗀𝖺𝗍𝗂𝗈𝗇 𝖿𝗈𝗋 𝗈𝗉𝗍𝗂𝗆𝗂𝗓𝖾𝖽 𝖽𝖺𝗍𝖺 𝗋𝖾𝗍𝗋𝗂𝖾𝗏𝖺𝗅.  
-## 𝖲𝗈𝖼𝗂𝖺𝗅 𝖨𝗇𝗍𝖾𝗋𝖺𝖼𝗍𝗂𝗈𝗇𝗌:
-𝖠𝗍𝗈𝗆𝗂𝖼 "𝖫𝗂𝗄𝖾" 𝗌𝗒𝗌𝗍𝖾𝗆 𝖺𝗇𝖽 𝖺 𝗁𝗂𝖾𝗋𝖺𝗋𝖼𝗁𝗂𝖼𝖺𝗅 𝖼𝗈𝗆𝗆𝖾𝗇𝗍 𝗌𝖾𝖼𝗍𝗂𝗈𝗇 𝖿𝖾𝖺𝗍𝗎𝗋𝗂𝗇𝗀 𝖺𝖽𝗆𝗂𝗇𝗂𝗌𝗍𝗋𝖺𝗍𝗂𝗏𝖾 "𝗉𝗂𝗇𝗇𝗂𝗇𝗀" 𝖼𝖺𝗉𝖺𝖻𝗂𝗅𝗂𝗍𝗂𝖾𝗌.  
-## 𝖱𝗈𝗅𝖾-𝖡𝖺𝗌𝖾𝖽 𝖠𝖼𝖼𝖾𝗌𝗌 𝖢𝗈𝗇𝗍𝗋𝗈𝗅 (𝖱𝖡𝖠𝖢):
-𝖣𝗂𝗌𝗍𝗂𝗇𝖼𝗍 𝗉𝖾𝗋𝗆𝗂𝗌𝗌𝗂𝗈𝗇𝗌 𝖿𝗈𝗋 𝗎𝗌𝖾𝗋 𝖺𝗇𝖽 𝖺𝖽𝗆𝗂𝗇 𝗋𝗈𝗅𝖾𝗌 𝗉𝗋𝗈𝗍𝖾𝖼𝗍𝖾𝖽 𝗏𝗂𝖺 𝖼𝗎𝗌𝗍𝗈𝗆 𝗌𝖾𝗋𝗏𝖾𝗋-𝗌𝗂𝖽𝖾 𝗆𝗂𝖽𝖽𝗅𝖾𝗐𝖺𝗋𝖾 (𝗉𝗋𝗈𝗍𝖾𝖼𝗍 𝖺𝗇𝖽 𝖺𝖽𝗆𝗂𝗇𝖮𝗇𝗅𝗒). 
-## 𝖠𝗌𝗌𝖾𝗍 𝖬𝖺𝗇𝖺𝗀𝖾𝗆𝖾𝗇𝗍: 
-𝖠𝗎𝗍𝗈𝗆𝖺𝗍𝖾𝖽 𝗂𝗆𝖺𝗀𝖾 𝗉𝗋𝗈𝖼𝖾𝗌𝗌𝗂𝗇𝗀 𝖺𝗇𝖽 𝗌𝗍𝗈𝗋𝖺𝗀𝖾 𝖿𝗈𝗋 𝖺𝗇𝗂𝗆𝖾 𝖼𝗈𝗏𝖾𝗋𝗌 𝗎𝗍𝗂𝗅𝗂𝗓𝗂𝗇𝗀 𝖬𝗎𝗅𝗍𝖾𝗋 𝖺𝗇𝖽 𝖤𝗑𝗉𝗋𝖾𝗌𝗌 𝗌𝗍𝖺𝗍𝗂𝖼 𝗋𝗈𝗎𝗍𝗂𝗇𝗀.  
-## 🛠️ 𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖲𝗍𝖺𝖼𝗄 
-## 𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽: 
-𝖱𝖾𝖺𝖼𝗍 (𝖵𝗂𝗍𝖾), 𝖳𝖺𝗂𝗅𝗐𝗂𝗇𝖽 𝖢𝖲𝖲, 𝖫𝗎𝖼𝗂𝖽𝖾-𝗋𝖾𝖺𝖼𝗍 𝖼𝗈𝗆𝗉𝗈𝗇𝖾𝗇𝗍𝗌.  
-## 𝖡𝖺𝖼𝗄𝖾𝗇𝖽: 
-𝖭𝗈𝖽𝖾.𝗃𝗌, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌 𝖱𝖤𝖲𝖳𝖿𝗎𝗅 𝖠𝖯𝖨. 
-## 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾:
-𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝗐𝗂𝗍𝗁 𝖬𝗈𝗇𝗀𝗈𝗈𝗌𝖾 𝖮𝖣𝖬 𝖿𝗈𝗋 𝗌𝖼𝗁𝖾𝗆𝖺 𝗏𝖺𝗅𝗂𝖽𝖺𝗍𝗂𝗈𝗇 𝖺𝗇𝖽 𝖽𝖺𝗍𝖺 𝗉𝗈𝗉𝗎𝗅𝖺𝗍𝗂𝗈𝗇.  
-## 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒:
-𝖩𝖲𝖮𝖭 𝖶𝖾𝖻 𝖳𝗈𝗄𝖾𝗇𝗌 (𝖩𝖶𝖳) 𝖿𝗈𝗋 𝗌𝗍𝖺𝗍𝖾𝗅𝖾𝗌𝗌 𝖺𝗎𝗍𝗁𝖾𝗇𝗍𝗂𝖼𝖺𝗍𝗂𝗈𝗇.
-## Project Preview
+<div align="center">
 
-<!-- <p align="center">
-  <img src="Screenshot 2025-12-28 142834.png" width="700" />
-  <br/>
-  <img src="Screenshot 2025-12-28 142921.png" width="700" />
-  <br/>
-  <img src="Screenshot 2025-12-28 143013.png" width="700" />
-  <br/>
-  <img src="Screenshot 2025-12-28 143036.png" width="700" />
-  <br/>
-  <img src="Screenshot 2025-12-28 143056.png" width="700" />
-  <br/>
-  <img src="Screenshot 2025-12-28 143112.png" width="700" />
-  <br/>
-  <img src="Screenshot 2025-12-28 143128.png" width="700" />
-  <br/>
-</p> -->
-## 📸 Application Preview
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Application;Discover+%C2%B7+Search+%C2%B7+Collect+%C2%B7+Engage" alt="Typing SVG" />
 
-### 1. Hero Banner
+# AnimeHub
+
+<p>A full-stack MERN application for anime enthusiasts to<br/>discover, search, and manage a personalized collection of series.</p>
+
+<br/>
+
+[![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://mongodb.com/)
+[![JWT](https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)](https://jwt.io/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
+
+<br/>
+
+![Stars](https://img.shields.io/github/stars/your-username/animehub?style=flat-square&color=A78BFA&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/your-username/animehub?style=flat-square&color=A78BFA&labelColor=0d1117)
+![Issues](https://img.shields.io/github/issues/your-username/animehub?style=flat-square&color=A78BFA&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+---
+
+## ◈ Overview
+
+AnimeHub is a robust, full-stack MERN application designed for anime enthusiasts to discover, search, and manage a personalized collection of series. The platform features a secure, role-based architecture — standard users engage through social features while administrators get exclusive tools for content management and community moderation.
+
+---
+
+## ◈ Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+**&#x2714; Secure Authentication**
+JWT-based authentication with Bcrypt password hashing for secure, stateless session management.
+
+**&#x2714; Dynamic Discovery**
+Real-time search and multi-parameter filtering powered by MongoDB aggregation pipelines for optimised data retrieval.
+
+**&#x2714; Social Interactions**
+Atomic "Like" system and a hierarchical comment section with administrative pinning capabilities.
+
+</td>
+<td width="50%">
+
+**&#x2714; Role-Based Access Control**
+Distinct permissions for `user` and `admin` roles enforced via custom server-side middleware (`protect` & `adminOnly`).
+
+**&#x2714; Asset Management**
+Automated image processing and storage for anime covers using Multer and Express static routing.
+
+**&#x2714; Performance**
+MongoDB aggregation pipelines ensure fast, optimised queries even at scale.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Tech Stack
+
+<div align="center">
+
+| Layer | Technology | Purpose |
+|:------|:----------|:--------|
+| Frontend | React (Vite) | Component-driven UI with fast HMR |
+| Styling | Tailwind CSS + Lucide React | Utility-first design with icon library |
+| Backend | Node.js + Express.js | RESTful API architecture |
+| Database | MongoDB + Mongoose | ODM with schema validation & population |
+| Auth | JWT + Bcrypt | Stateless auth with secure password hashing |
+| Uploads | Multer | Automated image processing & storage |
+
+</div>
+
+---
+
+## ◈ Application Preview
+
+<details>
+<summary><b>Click to view screenshots</b></summary>
+
+<br/>
+
+**Hero Banner**
 ![Hero Banner](previewimages/herobanner.png)
 
-### 2. Explore Anime
+**Explore Anime**
 ![Explore Anime](previewimages/exploreanime.png)
 
-### 3. Favorites
+**Favorites**
 ![Favorites](previewimages/favorites.png)
 
-### 4. View Details
+**View Details**
 ![View Details](previewimages/viewdetails.png)
 
-### 5. Comment Section
+**Comment Section**
 ![Comment Section](previewimages/commentsection.png)
 
-### 6. Admin – Add Anime
+**Admin — Add Anime**
 ![Admin Add Anime](previewimages/adminanimeadd.png)
 
-### 7. Manage Anime
+**Manage Anime**
 ![Manage Anime](previewimages/manginganime.png)
 
-### 8. Register Page
+**Register Page**
 ![Register](previewimages/register.png)
 
-### 9. Login Page
+**Login Page**
 ![Login](previewimages/loginpage.png)
 
+</details>
+
+---
+
+## ◈ Getting Started
+
+### Prerequisites
+- Node.js `v18+`
+- MongoDB (local or Atlas)
+
+### 1 — Clone the repository
+```bash
+git clone https://github.com/your-username/animehub.git
+cd animehub
+```
+
+### 2 — Backend setup
+```bash
+cd server
+npm install
+```
+
+Create a `.env` file inside `/server`:
+```env
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
+```
+```bash
+npm run dev
+```
+
+### 3 — Frontend setup
+```bash
+cd client
+npm install
+npm run dev
+```
+
+---
+
+<div align="center">
+
+## ◈ Author
+
+**Nikesh S**
+
+*Full Stack Developer — building scalable web applications with modern technologies.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+<br/>
+
+*If you enjoy AnimeHub, drop a* ⭐ *— it means a lot!*
+
+</div>

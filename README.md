@@ -6,20 +6,13 @@
 
 <br/>
 
-[![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://mongodb.com/)
-[![JWT](https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)](https://jwt.io/)
-[![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
-
-<br/>
-
-![Stars](https://img.shields.io/github/stars/your-username/animehub?style=flat-square&color=4f8ef7&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/your-username/animehub?style=flat-square&color=4f8ef7&labelColor=0d1117)
-![Issues](https://img.shields.io/github/issues/your-username/animehub?style=flat-square&color=4f8ef7&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-MIT-4f8ef7?style=flat-square&labelColor=0d1117)
+[![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=25)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3C873A&logoWidth=25)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&logoWidth=25)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&logoWidth=25)](https://mongodb.com/)
+[![JWT](https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&logoWidth=25)](https://jwt.io/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&logoWidth=25)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF&logoWidth=25)](https://vitejs.dev/)
 
 <br/>
 
@@ -96,14 +89,14 @@ MongoDB aggregation and indexed queries ensure fast, consistent performance as t
 
 <div align="center">
 
-|  | Layer | Technology | Purpose |
-|--|:------|:----------|:--------|
-| ⚛️ | Frontend | React + Vite | Component UI with fast HMR |
-| 🎨 | Styling | Tailwind CSS + Lucide React | Utility-first with icon library |
-| 🟩 | Backend | Node.js + Express.js | RESTful API architecture |
-| 🍃 | Database | MongoDB + Mongoose | Schema validation & population |
-| 🔒 | Auth | JWT + Bcrypt | Stateless auth + password hashing |
-| 📁 | Uploads | Multer | Image processing & static serving |
+| &nbsp;&nbsp;&nbsp; | Layer | Technology | Purpose |
+|:------------------:|:------|:----------|:--------|
+| <img src="https://skillicons.dev/icons?i=react" width="30"/> | Frontend | React + Vite | Component UI with fast HMR |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> | Styling | Tailwind CSS + Lucide React | Utility-first with icon library |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> | Backend | Node.js + Express.js | RESTful API architecture |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> | Database | MongoDB + Mongoose | Schema validation & population |
+| <img src="https://skillicons.dev/icons?i=jwt" width="30"/> | Auth | JWT + Bcrypt | Stateless auth + password hashing |
+| <img src="https://skillicons.dev/icons?i=express" width="30"/> | Uploads | Multer + Express | Image processing & static serving |
 
 </div>
 

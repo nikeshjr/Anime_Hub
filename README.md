@@ -95,7 +95,7 @@ MongoDB aggregation and indexed queries ensure fast, consistent performance as t
 | <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> | Styling | Tailwind CSS + Lucide React | Utility-first with icon library |
 | <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> | Backend | Node.js + Express.js | RESTful API architecture |
 | <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> | Database | MongoDB + Mongoose | Schema validation & population |
-| <img src="https://skillicons.dev/icons?i=jwt" width="30"/> | Auth | JWT + Bcrypt | Stateless auth + password hashing |
+| <img src="https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&logoWidth=20" height="30"/> | Auth | JWT + Bcrypt | Stateless auth + password hashing |
 | <img src="https://skillicons.dev/icons?i=express" width="30"/> | Uploads | Multer + Express | Image processing & static serving |
 
 </div>

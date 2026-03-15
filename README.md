@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3CE1,A78BFA&height=140&section=header&text=AnimeHub&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Discover%20%C2%B7%20Search%20%C2%B7%20Collect%20%C2%B7%20Engage&descSize=14&descAlignY=68&descColor=c4b5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b3e,1a3a8f,4f8ef7&height=160&section=header&text=AnimeHub&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Discover%20%C2%B7%20Search%20%C2%B7%20Collect%20%C2%B7%20Engage&descSize=14&descAlignY=68&descColor=93c5fd" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Application;Role-Based+Auth+%2B+JWT+Security;Real-Time+Search+%26+Filtering;Built+for+Anime+Enthusiasts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=4f8ef7&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Application;Role-Based+Auth+%2B+JWT+Security;Real-Time+Search+%26+Filtering;Built+for+Anime+Enthusiasts" alt="Typing SVG" />
 
 <br/>
 
@@ -16,16 +16,16 @@
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/your-username/animehub?style=flat-square&color=A78BFA&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/your-username/animehub?style=flat-square&color=A78BFA&labelColor=0d1117)
-![Issues](https://img.shields.io/github/issues/your-username/animehub?style=flat-square&color=A78BFA&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-MIT-A78BFA?style=flat-square&labelColor=0d1117)
-
-</div>
+![Stars](https://img.shields.io/github/stars/your-username/animehub?style=flat-square&color=4f8ef7&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/your-username/animehub?style=flat-square&color=4f8ef7&labelColor=0d1117)
+![Issues](https://img.shields.io/github/issues/your-username/animehub?style=flat-square&color=4f8ef7&labelColor=0d1117)
+![License](https://img.shields.io/badge/license-MIT-4f8ef7?style=flat-square&labelColor=0d1117)
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 <br/>
 
@@ -35,7 +35,9 @@
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br/>
 
@@ -82,7 +84,9 @@ MongoDB aggregation and indexed queries ensure fast, consistent performance as t
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br/>
 
@@ -105,7 +109,9 @@ MongoDB aggregation and indexed queries ensure fast, consistent performance as t
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br/>
 
@@ -115,7 +121,7 @@ MongoDB aggregation and indexed queries ensure fast, consistent performance as t
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&width=400&lines=Explore+the+full+AnimeHub+experience;9+screens+%C2%B7+Full+UI+walkthrough" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=800&color=4f8ef7&center=true&vCenter=true&width=420&lines=Explore+the+full+AnimeHub+experience;9+screens+%C2%B7+Full+UI+walkthrough" alt="Typing SVG" />
 
 </div>
 
@@ -215,7 +221,9 @@ MongoDB aggregation and indexed queries ensure fast, consistent performance as t
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br/>
 
@@ -257,7 +265,9 @@ cd client && npm install && npm run dev
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br/>
 
@@ -267,22 +277,24 @@ cd client && npm install && npm run dev
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=4f8ef7&center=true&vCenter=true&width=400&lines=Backend+Web+Developer;Building+scalable+MERN+applications;Passionate+about+clean+architecture" alt="Typing SVG" />
+
+<br/>
+
 **Nikesh S**
-*Full Stack Developer — building scalable web applications with modern technologies.*
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/your-handle)
 
-<br/>
 <br/>
 
 *If you enjoy AnimeHub, drop a* ⭐ *— it means a lot!*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3CE1,A78BFA&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b3e,1a3a8f,4f8ef7&height=120&section=footer" />
 
 </div>
